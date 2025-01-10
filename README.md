@@ -77,7 +77,8 @@ The following dashboards are included in the Tableau workbook:
 2. **Arrest Frequency Distibution**: Interactive charts showing arrests by age, race, gender, and ethnicity.
 3. 
 
-Sample screenshots of dashboards:  
-![Sample Dashboard](demographics.PNG)  
+Screenshots of dashboards:  
+![Demographic Analysis](demographics.PNG)  
+![Arrest Frequency Distibution](frequency.PNG)  
 
 ---
