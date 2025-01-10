@@ -78,6 +78,6 @@ The following dashboards are included in the Tableau workbook:
 3. 
 
 Sample screenshots of dashboards:  
-![Sample Dashboard](https://via.placeholder.com/600x300)  
+![Sample Dashboard](demographics.PNG)  
 
 ---
