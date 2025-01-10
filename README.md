@@ -75,7 +75,6 @@ The following dashboards are included in the Tableau workbook:
 
 1. **Demographic Analysis**: Displays total arrests and trends over time.
 2. **Arrest Frequency Distibution**: Interactive charts showing arrests by age, race, gender, and ethnicity.
-3. 
 
 Screenshots of dashboards:  
 ![Demographic Analysis](demographics.PNG)  
