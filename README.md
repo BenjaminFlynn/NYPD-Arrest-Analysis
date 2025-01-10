@@ -10,8 +10,6 @@ This project analyzes NYPD arrest data for the year 2024 using **SQL** for data 
 - [Technologies Used](#technologies-used)
 - [Project Workflow](#project-workflow)
 - [Visualizations](#visualizations)
-- [How to Use This Project](#how-to-use-this-project)
-- [Contributors](#contributors)
 
 ---
 
@@ -88,14 +86,3 @@ Sample screenshots of dashboards:
 ![Sample Dashboard](https://via.placeholder.com/600x300)  
 
 ---
-
-## How to Use This Project
-
-### Prerequisites
-- **SQL database**: Set up a database (e.g., MySQL, PostgreSQL, or SQLite) to store the NYPD data.
-- **Tableau**: Install Tableau Desktop or use Tableau Public for visualizations.
-
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/nypd-arrest-analysis.git
