@@ -73,6 +73,8 @@ The NYPD publishes annual arrest data that includes demographic details, offense
 
 The following dashboards are included in the Tableau workbook:
 
+https://public.tableau.com/app/profile/benjamin.flynn/viz/ArrestAnalysis/Dashboard1
+
 1. **Demographic Analysis**: Displays total arrests and trends over time.
 2. **Arrest Frequency Distibution**: Interactive charts showing arrests by age, race, gender, and ethnicity.
 
